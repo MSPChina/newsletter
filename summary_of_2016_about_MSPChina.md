@@ -1,6 +1,4 @@
-# 2016年 MSP 的创新之旅 
-
-# Tour of Imagination of MSP in 2016.
+# 2016年 MSP 的创新之旅 Imagine Tour of MSP in 2016. 
 
 时值中国的岁末年关，2017年已经逐渐拉开了她的序幕。当我们回首2016年，我们作为 MSP ，这一年里，我们做了什么？让我来为大家走近这一年来，我们可以看到的成长。
 
@@ -14,45 +12,59 @@
 
 海南炎热的天，为信仰燃烧青春的我们，分组跟进参赛选手，拍摄比赛和大会素材，在网络上进行写稿播报，甚至通宵剪辑视频。
 
-![china final合照](img/chinafinal.jpg)
+
 
 ![china final合照](img/chinafinal0.jpg)
 
-![china final合照](img/chinafinal2.jpg)
+微软创新杯中国区总决赛开幕
+
+![china final合照](img/chinafinal.jpg)
+
+来自全国各地的MSP
 
 
 
-
+更多关于我们剪辑的视频，请访问[微软妹叫你来三亚 优酷播单](http://list.youku.com/albumlist/show/id_27159022.html?spm=a2h0j.8191423.module_basic_info.5~5!2~5~5~5~5~A)
 
 
 
 7月，中国区的Overall Leader同角逐出的冠军远赴美国西雅图，微软总部，参见全球总决赛和Global Summit。
 
-BoneyCare团队
+来自中国的由东北大学、北京师范大学、UC Berkeley 联合组队完成的 BoneyCare 项目从众多参赛项目中脱颖而出，获得组委会特设的 Ability Award 奖项。
+
+![](img/worldfinal2.jpg)
+
+
+
+BoneyCare 是一款基于云端语音识别技术和波形分析技术的口吃辅助治疗 App，结合口吃治疗的传统模式进行 “朗读训练” ，通过提供文章供用户朗读，将语音传至云端并进行分析，同时反馈给用户个性化的评价和指导意见。
+
+![](img/worldfinal1.jpg)
+
+自去年设立，Ability Award 旨在奖励致力于改善残障人士生活的团队项目，有潜力让世界更加包容亲近。BoneyCare 团队未来将重新回到雷德蒙德，在微软专家的帮助下完善自己的项目。
+
+
+
+如今又是新的一年了，而我们又在为2017年的微软创新杯积蓄着力量，开始了新一轮了校园宣传，不同于往年，我们开创了新的形式，借助B站直播ImageTour 主题讲座，用弹幕来进行互动。
+
+![show](img/show1.jpg)
+
+关于Imagine Tour 主题讲座请访问 [http://aka.ms/ICChina](http://aka.ms/ICChina)
 
 
 
 
 
-又是新的一年了，而我们又在为新一年的微软创新杯积蓄着力量，
-
-我们又开始了新一轮了校园宣传，IC CampusPromotion
-
-ImageShow B站直播
+## 在路上
 
 
 
 
 
+MSP其实不仅仅是一个围绕着创新杯而展开的组织，记得在中国区总决赛的时候，我们要为最后一天的晚会进行排舞，在夜晚的楼下，在卫生间对着镜子，练习，编排动作，最后在晚会前教会他人，或许，这对我们来说也是一种成长吧。
+
+![china final合照](img/chinafinal2.jpg)
 
 
-## 实践
-
-
-
-
-
-MSP其实不仅仅是一个围绕着创新杯而展开的组织，记得在中国区总决赛的时候，笔者和一名高一的MSP要为最后一天的晚会进行排舞，我们在夜晚的楼下，在卫生间对着镜子，练习，编排动作，最后在晚会前教会他人，为我们的节目绞尽脑汁，或许，这对我们来说也是一种成长吧。
 
 所以，其实我更想讲的是，在这一年的创新之旅中，关于我们进步的故事。
 
@@ -129,35 +141,51 @@ MSP Recruitment 大连理工大学
 
 ![](img/ignite1.jpg)
 
+Microsoft Ignite China 微软技术大会开幕
+
 
 
 ![](img/ignite2.jpg)
 
-
+微软技术大会期间相约在一起的MSP
 
 ![](img/ignite3.jpg)
 
-
+微软技术大会分会场
 
 ![](img/ignite4.jpg)
 
-
+微软技术大会·来自全国各地的MSP
 
 ![](img/centerone1.jpg)
 
-
-
-![](img/centerone2.jpg)
-
-甚至，我们开始走出国门，联络起其他国家的MSP，
+MSP参观微软大楼的Center One
 
 
 
-MSP in MVP Summit
+甚至，我们开始走出国门，我们借助网络，和派去西雅图的伙伴，联络起其他国家的MSP。
+
+7月 World Final & MSP Global Summit
+
+![mvp](img/worldfinal3.jpg)
+
+![mvp](img/worldfinal6.jpg)
+
+
+
+11月 MSP in MVP Summit
+
+![mvp](img/mvp2.jpg)
+
+
+
+
+
+![mvp](img/mvp1.jpg)
+
+
 
 也正是在World Final和MVP Summit的两次西雅图之行中，我们参与了原先亚太地区MSP兴起的newsletter项目，开始逐渐面向范围更大更广阔的世界。
-
-
 
 ![](img/msptimes.jpg)
 
@@ -169,43 +197,5 @@ MSP in MVP Summit
 
 
 
-
-
-伙伴
-
-
-
-
-
-
-
-
-
-Connect大会
-
-Hour of Code
-
-MSP Recruitment
-
-Ignite大会
-
-MVP Summit
-
-
-
-
-
-四月份 2016 ICLocal Final
-
-七月份 MSP Summit& World Final
-
-
-
-
-
-十月份 MS ImagineShow
-
-十二月 IC CampusPromotion
-
-
+2016年的创新之旅，有关于微软创新杯的盛大赛事，也有关于MSP成长的故事。
 
