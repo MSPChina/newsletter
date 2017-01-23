@@ -4,8 +4,6 @@
 
 微软创新杯在中国的宣传时有一个称号，叫做创新之旅，它讲的是一群工程师，设计师，项目管理者等人，在创新的驱动下，用代码谱写，用 PS 绘制，无数策划，一起描绘迸发的灵感。对于微软创新杯的参赛者来说，这一年，在创新之旅上走得更坚定，而对于 MSP (Microsoft Student Partners) 呢？
 
-
-
 ## 创新
 
 4 月末，在经历了几轮微软创新杯区域赛，省赛后，中国区总决赛在海南三亚举行，当时几十位天南海北的 MSP，赶赴三亚，参与 MSP China Summit 和报道 IC China Local Final 这场盛事。
@@ -14,11 +12,15 @@
 
 
 
-![china final合照](img/chinafinal0.jpg)  
-微软创新杯中国区总决赛开幕
+![china final合照](img/chinafinal0.jpg)
+
+- 微软创新杯中国区总决赛开幕
+
+
 
 ![china final合照](img/chinafinal.jpg)  
-来自全国各地的 MSP
+
+- 来自全国各地的 MSP
 
 
 
@@ -32,11 +34,17 @@
 
 ![](img/worldfinal2.jpg)
 
+- 创新杯决赛现场的中国国旗
+
 
 
 BoneyCare 是一款基于云端语音识别技术和波形分析技术的口吃辅助治疗 App，结合口吃治疗的传统模式进行 “朗读训练” ，通过提供文章供用户朗读，将语音传至云端并进行分析，同时反馈给用户个性化的评价和指导意见。
 
 ![](img/worldfinal1.jpg)
+
+- BoneyCare 团队
+
+
 
 自去年设立，Ability Award 旨在奖励致力于改善残障人士生活的团队项目，有潜力让世界更加包容亲近。BoneyCare 团队未来将重新回到雷德蒙德，在微软专家的帮助下完善自己的项目。
 
@@ -45,6 +53,10 @@ BoneyCare 是一款基于云端语音识别技术和波形分析技术的口吃�
 如今又是新的一年了，而我们又在为2017年的微软创新杯积蓄着力量，开始了新一轮了校园宣传，不同于往年，我们开创了式新的形，借助B站直播 ImageTour 主题讲座，用弹幕来进行互动。
 
 ![show](img/show1.jpg)
+
+- Imagine Tour 主题讲座宣传海报
+
+
 
 ***关于 Imagine Tour 主题讲座请访问 [http://aka.ms/ICChina](http://aka.ms/ICChina)***
 
@@ -58,41 +70,56 @@ MSP 其实不仅仅是一个围绕着创新杯而展开的组织，记得在中�
 
 ![](img/chinafinal3.jpg)
 
+- 来自深圳万科梅沙书院的高中生MSP与来自南京东南大学的MSP在台上领舞
+
 
 
 所以，其实我更想讲的是，在这一年的创新之旅中，关于我们进步的故事。
 
 在线下，我们更为他人的创新贡献着我们渺小的力量，我们发动身边的同学一起共同观赏关于技术的盛宴——微软 Connect 大会；我们带领大家去动手实践，组织编程一小时活动，在编程中发现乐趣；我们试图用热情，去宣传 MSP，让更多的人加入我们这个大家庭。
 
-- Connect 大会
+### Connect 大会
 
-  Build 2016 大会的时候，微软粉丝就像是在过年，在微博上发动态，在微信群里刷弹幕，更有微软科技媒体组织B站的同声传译，和邀请嘉宾进行点评。而更技术向的 Connect 大会不同于这种发自于对微软的热爱而自行进行观看的活动，作为 MSP，要组织大家聚在一起观看视频直播，这个形式其实是有一些难度的，
+Build 2016 大会的时候，微软粉丝就像是在过年，在微博上发动态，在微信群里刷弹幕，更有微软科技媒体组织B站的同声传译，和邀请嘉宾进行点评。而更技术向的 Connect 大会不同于这种发自于对微软的热爱而自行进行观看的活动，作为 MSP，要组织大家聚在一起观看视频直播，这个形式其实是有一些难度的，
 
-  从很多MSP的反馈来看，范围不够广，不够吸引人，一直都是线下活动中最突出的矛盾。
+从很多MSP的反馈来看，范围不够广，不够吸引人，一直都是线下活动中最突出的矛盾。
 
-  可是 MSP 是来自群众，走到群众中去也十分容易，于是我们便以寝室为单位，带动身边的同学，一起进行观看。
+可是 MSP 是来自群众，走到群众中去也十分容易，于是我们便以寝室为单位，带动身边的同学，一起进行观看。
 
-  ![connect](img/connect.jpg)  
-  根据反馈而制成活动照片墙，覆盖近20所高校
+![connect](img/connect.jpg)  
+
+- 根据反馈而制成活动照片墙，覆盖近20所高校
 
 
-- Hour of Code
 
-  这是一个工程师能利用编程改变世界的时代，程序已经逐步渗入我们的日常生活中，更有人呼吁，将编程纳入小学教学。当风靡全球的游戏——“我的世界”，和编程结合在一起，会发生怎样“添码行空”的故事？
+### Hour of Code
 
-  我们逐渐进步，在更大的范围内推广我们的活动。
+这是一个工程师能利用编程改变世界的时代，程序已经逐步渗入我们的日常生活中，更有人呼吁，将编程纳入小学教学。当风靡全球的游戏——“我的世界”，和编程结合在一起，会发生怎样“添码行空”的故事？
 
-  ![hoc](img/hoc1.jpg)  
-  电子科技大学
+我们逐渐进步，在更大的范围内推广我们的活动。
 
-  ![hoc](img/hoc2.jpg)  
-  河北建筑工程学院
+![hoc](img/hoc1.jpg)  
 
-  ![hoc](img/hoc3.jpg)  
-  福建警察学院
+- 电子科技大学
 
-  ![hoc](img/hoc4.jpg)  
-  海南大学
+
+
+![hoc](img/hoc2.jpg)  
+
+- 河北建筑工程学院
+
+
+
+![hoc](img/hoc3.jpg) 
+
+- 福建警察学院
+
+
+
+![hoc](img/hoc4.jpg)  
+
+- 海南大学
+
 
 
 
@@ -103,7 +130,8 @@ MSP 其实不仅仅是一个围绕着创新杯而展开的组织，记得在中�
 于是，我们开始走向更广大的舞台，我们会举办更大的会议；
 
 ![](img/recruitment1.jpg)  
-MSP Recruitment 大连理工大学
+
+- MSP Recruitment 大连理工大学
 
 
 
@@ -111,34 +139,45 @@ MSP Recruitment 大连理工大学
 
 ![](img/ic.jpg)
 
+- MSP Recruitment 大连理工大学
+
 
 
 不满足于 Build2016 般线上的狂欢，我们开始线下面基，前往北京参加 Microsoft Ignite China 微软技术大会。
 
 ![](img/ignite1.jpg)  
-Microsoft Ignite China 微软技术大会开幕
+
+- Microsoft Ignite China 微软技术大会开幕
+
 
 
 ![](img/ignite2.jpg)  
-微软技术大会期间相约在一起的 MSP
+
+- 微软技术大会期间相约在一起的 MSP
+
 
 
 ![](img/ignite3.jpg)  
-微软技术大会分会场
+
+- 微软技术大会分会场
+
 
 
 ![](img/ignite4.jpg)  
-微软技术大会·来自全国各地的 MSP
+
+- 微软技术大会·来自全国各地的 MSP
+
 
 
 ![](img/centerone1.jpg)  
-MSP参观微软大楼的 Center One
+
+- MSP参观微软大楼的 Center One
 
 
 
 甚至，我们开始走出国门，我们借助网络，和派去西雅图的伙伴，联络起其他国家的 MSP。
 
-7月 World Final & MSP Global Summit
+- 7月 World Final & MSP Global Summit
 
 ![mvp](img/worldfinal3.jpg)
 
@@ -146,7 +185,7 @@ MSP参观微软大楼的 Center One
 
 
 
-11月 MSP in MVP Summit
+- 11月 MSP in MVP Summit
 
 ![mvp](img/mvp2.jpg)
 
@@ -160,6 +199,8 @@ MSP参观微软大楼的 Center One
 
 ![](img/msptimes.jpg)
 
+- MSP Times网站首页
+
 
 
 最开始喜欢上微软的原因是觉得“科技予力众生”(Empower Us All)，这个概念真的太酷了。后来加入了 MSP，一起迈上了创新之旅，在这途中，曾被三亚秀丽的景色吸引，也曾艳羡去西雅图大本营的伙伴，然而我觉得最重要的，不是收集到的多少微软纪念品文化衫，而是认识的其他 MSP 啊，“在同一片天空下，我们彼此，为着共同喜爱的东西，一起进步，即使相隔很远，我们也会有机会见面，我们也会分享喜好，分享彼此的生活，到见面的时候，像是认识多年的老友。”
@@ -170,12 +211,15 @@ MSP参观微软大楼的 Center One
 
 2016 年的创新之旅，有关于微软创新杯的盛大赛事，也有关于 MSP 成长的故事。
 
+
+
 ---
 
-**文 by Yvon-Shong 宋代伟**
 
-作者简介：  
-宋代伟，东南大学，现在日本早稻田大学做交换生。MSP/软狗/初级传教士，知乎专栏[微软大法好](https://zhuanlan.zhihu.com/microsoft)作者。  
-Profile: [http://yvon-shong.github.io/](http://yvon-shong.github.io/)  
-Github: [Yvon-Shong - Github](https://github.com/Yvon-Shong)  
+
+**文 / Yvon-Shong 宋代伟**
+
+作者简介： 
+宋代伟，东南大学，现于日本早稻田大学大学院攻读Master。MSP/软狗/传教士，知乎专栏 [微软大法好](https://zhuanlan.zhihu.com/microsoft) 作者。 
+Github: [Yvon-Shong - Github](https://github.com/Yvon-Shong) 
 Email: yvon-shong#foxmail.com
