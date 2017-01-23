@@ -1,4 +1,4 @@
-# 2016年 MSP 的创新之旅 Imagine Tour of MSP in 2016. 
+# 2016年 MSP 的创新之旅 Imagine Tour of MSP in 2016.
 
 时值中国的岁末年关，2017 年已经逐渐拉开了她的序幕。当回首 2016 年，作为 MSP ，这一年里，我们做了什么？让软妹来带大家走近，这一年来，那些可以看到的成长。
 
@@ -168,8 +168,14 @@ MSP参观微软大楼的 Center One
 
 
 
-2016 年的创新之旅，有关于微软创新杯的盛大赛事，也有关于MSP成长的故事。
+2016 年的创新之旅，有关于微软创新杯的盛大赛事，也有关于 MSP 成长的故事。
 
 ---
 
 **文 by Yvon-Shong 宋代伟**
+
+作者简介：  
+宋代伟，东南大学，现在日本早稻田大学做交换生。MSP/软狗/初级传教士，知乎专栏[微软大法好](https://zhuanlan.zhihu.com/microsoft)作者。  
+Profile: [http://yvon-shong.github.io/](http://yvon-shong.github.io/)  
+Github: [Yvon-Shong - Github](https://github.com/Yvon-Shong)  
+Email: yvon-shong#foxmail.com
