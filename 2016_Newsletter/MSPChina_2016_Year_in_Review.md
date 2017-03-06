@@ -1,6 +1,6 @@
-# China 2016 Year in Review
+# China 2016 Year in Review - Imagine Tour of MSP in 2016
+*Chinese version author:[Yvon Shong](https://github.com/MSPChina/newsletter/blob/master/2016_Newsletter/Imagine_Tour_of_MSPChina_in_2016.md)* *English version translator: [Chang Zhao](https://github.com/MSPChina/newsletter/blob/master/2016_Newsletter/MSPChina_2016_Year_in_Review.md)*
 
-## Imagine Tour of MSP in 2016
 
 Hi all~  
 It is so glad to be here and sharing our MSPChina events with all of you MSPs around the world. Let me show you what we Chinese MSPs have done in the year of 2016.
@@ -10,9 +10,9 @@ Imagine Tour is the alias of Imagine Cup promotion in China, it's the story of i
 
 ## Imagine Cup
 
-At the end of April, after several round of area final competition, 2016 Imagine Cup China Local Final was held in Sanya, Hainan province, while thirty MSPs came to Sanya from all around China to participate in 2016 MSP China Summit and record the greate feast of Imagine Cup.
+At the end of April, after several round of area final competition, 2016 Imagine Cup China Local Final was held in Sanya, Hainan province, while thirty MSPs came to Sanya from all around China to participate in 2016 MSP China Summit and recorded the great feast of Imagine Cup.
 
-Accompanied by the scorching weather of Sanya, we burst our bigest passion of youth. Follow competitors, shoot the competition and summit, write media broadcast script, stay up the whole night to cut and render videos.
+Accompanied by the scorching weather of Sanya, we burst our biggest passion of youth. Follow competitors, shoot the competition and summit, write media broadcast script, stay up the whole night to cut and render videos.
 
 
 
@@ -54,7 +54,7 @@ Imagine Cup has always featured innovative projects that are intended to help pe
 
 ## On the way
 
-MSP program is not only a organization aimed to help and win the Imagine Cup. On the local final we choreographed and practiced dancing once and once more times for the dinner party of the next day. We trained on the downstairs, in the bathroom, on every moments we got for rest, and we taught each other, we helped each other, during which we became closed partners and friends, brothers in arms. It would huge growth for all of us.
+MSP program is not only an organization aimed to help and win the Imagine Cup. On the local final we choreographed and practiced dancing once and once more times for the dinner party of the next day. We trained on the downstairs, in the bathroom, on every moments we got for rest, and we taught each other, we helped each other, during which we became closed partners and friends, brothers in arms. It would huge growth for all of us.
 
 So, the Imagine Tour of 2016 is also the story of growth.
 
@@ -64,11 +64,11 @@ So, the Imagine Tour of 2016 is also the story of growth.
 
 ---
 
-Offline, likewise, we pursue the mission of Microsoft to empower every person and every organization on the planet to achieve more. We make contributions to vivify the community bit by bit, such as promoting classmates and friend around us to watch Microsoft Connect event, teaching high schools and non-computer majors about coding, introducting them with the Hour of Code event. We do also recruit more students with passion to come and join us MSP program and our big family.
+Offline, likewise, we pursue the mission of Microsoft to empower every person and every organization on the planet to achieve more. We make contributions to vivify the community bit by bit, such as promoting classmates and friends around us to watch Microsoft Connect event, teaching high schools and non-computer majors about coding, introducing them with the Hour of Code event. We do also recruit more students with passion to come and join us MSP program and our big family.
 
 ### Connect event
 
-##### We gathered our friends together to watch Connect live in the dorm, lab, classroom and so on. The promotion covered amost 20 universities.
+##### We gathered our friends together to watch Connect live in the dorms, labs, classrooms and so on. The promotion covered almost 20 universities.
 
 ![connect](img/connect.jpg)  
 
@@ -76,7 +76,7 @@ Offline, likewise, we pursue the mission of Microsoft to empower every person an
 
 ### Hour of Code
 
-Engineers can just change the world using code in this new era and coding has become more and more common in our daily life. Even computer programming has be urging to brought into primiry school. 
+Engineers can just change the world using code in this new era and coding has become more and more common in our daily life. Even computer programming has be urged to brought into primiry schools. 
 
 ##### We promoted to help teach high schools and non-computer majors to learn programming, and help them achieve more.
 
@@ -102,7 +102,7 @@ Engineers can just change the world using code in this new era and coding has be
 
 - Hainan University
 
-##### Then we came to the broader stage and held larger event.
+##### Then we came to the broader stage and held larger events.
 
 ![](img/ic.jpg)
 
