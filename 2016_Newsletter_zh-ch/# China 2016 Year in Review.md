@@ -146,3 +146,8 @@ It is in the twice Seattle journey, we joined the program of msp-times of APAC a
 
 ### All of the story started from the first step of Imagine Tour.
 
+---
+
+For more information (Chinese Social Media):
+
+![WeChat](img/WeChat.png)  　　　　　![Weibo](img/Weibo.png)
